@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Subham Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **ReactJS, JavaScript, HTML and CSS**
+- 🌱 I love working with **ReactJS, JavaScript, HTML and CSS**
+  
+- 🌱 I’m learninig **React Native, TypeScript*
 
 - 👨‍💻 All of my projects are available at [https://subham-kumar-portfolio.netlify.app/](https://subham-kumar-portfolio.netlify.app/)
 
 - 💬 Ask me about **ReactJS, Tailwind CSS, Bootstrap, Material UI JavaScript, HTML and CSS**
 
-- 📫 How to reach me **subhamkumar9650@hmail.com**
+- 📫 How to reach me **subhamkumar9650@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
