@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Subham Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **ReactJS, JavaScript, HTML and CSS**
+- 🌱 I love working with **ReactJS, JavaScript, HTML and CSS**
+  
+- 🌱 I’m currently learning **React Native, TypeScript, MongoDb and Express**
 
 - 👯 I’m looking to collaborate on [Wheels4Rent](https://wheels4rent.netlify.app/)
 
