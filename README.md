@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Subham Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I love working with **ReactJS, JavaScript, HTML and CSS**
-  
-- 🌱 I’m learninig **React Native, TypeScript**
+- 🌱 I’m currently learning **ReactJS, JavaScript, HTML and CSS**
+
+- 👯 I’m looking to collaborate on [Wheels4Rent](https://wheels4rent.netlify.app/)
+
+- 🤝 I’m looking for help with [Anibuy](https://anibuy-subham0kumar.netlify.app/)
 
 - 👨‍💻 All of my projects are available at [https://subham-kumar-portfolio.netlify.app/](https://subham-kumar-portfolio.netlify.app/)
 
@@ -13,6 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://dev.to/subam_am_kr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="subam_am_kr" height="30" width="40" /></a>
 <a href="https://twitter.com/subh_am_kr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="subh_am_kr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/subham0kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subham0kumar" height="30" width="40" /></a>
 </p>
