@@ -3,7 +3,7 @@
 
 - 🌱 I love working with **ReactJS, JavaScript, HTML and CSS**
   
-- 🌱 I’m learninig **React Native, TypeScript*
+- 🌱 I’m learninig **React Native, TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://subham-kumar-portfolio.netlify.app/](https://subham-kumar-portfolio.netlify.app/)
 
