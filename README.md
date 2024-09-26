@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **ReactJS, Tailwind CSS, Bootstrap, Material UI JavaScript, HTML and CSS**
 
-- 📫 How to reach me [Email:](subhamkumar9650@gmail.com)
+- 📫 How to reach me [Email:subhamkumar9650@gmail.com](subhamkumar9650@gmail.com)
 
 
 ## 🌐 Socials:
