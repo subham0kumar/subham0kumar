@@ -9,11 +9,11 @@
 
 - 🤝 I’m looking for help with [Anibuy](https://anibuy-subham0kumar.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [https://subham-kumar-portfolio.netlify.app/](https://subham-kumar-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio Website](https://subham-kumar-portfolio.netlify.app/)
 
 - 💬 Ask me about **ReactJS, Tailwind CSS, Bootstrap, Material UI JavaScript, HTML and CSS**
 
-- 📫 How to reach me **subhamkumar9650@gmail.com**
+- 📫 How to reach me [Email:](subhamkumar9650@gmail.com)
 
 
 ## 🌐 Socials:
